@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saba Hussain
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web application Development
 - 🌱 I’m currently learning Angular and .NET Core
 
 <!---
